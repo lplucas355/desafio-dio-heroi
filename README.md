@@ -19,8 +19,8 @@ O código utiliza um algoritmo de classificação que atribui um nível ao heró
 
 Sinta-se à vontade para contribuir com melhorias neste projeto. Basta seguir os passos:
 
-Faça um fork do projeto.
-Crie uma branch para sua feature (git checkout -b feature/nova-feature).
-Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature').
-Faça push para a branch (git push origin feature/nova-feature).
-Crie um novo Pull Request.
+1. Faça um fork do projeto.
+2. Crie uma branch para sua feature (git checkout -b feature/nova-feature).
+3. Faça commit das suas alterações (git commit -am 'Adicionando uma nova feature').
+4. Faça push para a branch (git push origin feature/nova-feature).
+5. Crie um novo Pull Request.
