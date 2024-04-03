@@ -10,9 +10,9 @@ O código utiliza um algoritmo de classificação que atribui um nível ao heró
 
 ## Como Usar
 
-1. Clone o repositório: `git clone https://github.com/seu-usuario/desafio-do-heroi.git`
-2. Abra o arquivo `classificar_heroi.py` em um editor de código.
-3. Insira o número de XP do herói na variável `xp_heroi`.
+1. Clone o repositório.
+2. Abra o arquivo  em um editor de código.
+3. Insira o número de XP do herói.
 4. Execute o código.
 
 ## Contribuição
